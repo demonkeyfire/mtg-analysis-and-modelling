@@ -1,4 +1,4 @@
-# MTG Analysis Database
+# MTG Analysis and Modelling
 
 A unified pipeline for working with Magic: The Gathering data.  
 This project downloads JSON data from [MTGJSON](https://mtgjson.com) (and potentially [Scryfall](https://scryfall.com) in the future), processes the files into structured tables, and enables analysis and machine learning on MTG card data.
