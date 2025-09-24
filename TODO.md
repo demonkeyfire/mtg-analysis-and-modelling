@@ -1,0 +1,30 @@
+## 24/09/25
+- Convert functions in notebooks to modular py files
+- Reference modules in notebooks
+- Memory management in all notebooks
+- Push renaming and reordering dicts/lists for dataframes into a module
+- EDA on MTGJSON files:
+    - AllDeckFiles.tar.xz
+    - AllIdentifiers.json.xz
+    - AllPrices.json.xz
+    - AllPricesToday.json.xz
+    - AllPrintings.json.xz
+    - CardTypes.json.xz
+    - CompiledList.json.xz
+    - DeckList.json.xz
+    - EnumValues.json.xz
+    - Legacy.json.xz
+    - LegacyAtomic.json.xz
+    - Meta.json.xz
+    - Modern.json.xz
+    - ModernAtomic.json.xz
+    - PauperAtomic.json.xz
+    - Pioneer.json.xz
+    - PioneerAtomic.json.xz
+    - Standard.json.xz
+    - StandardAtomic.json.xz
+    - TcgplayerSkus.json.xz
+    - Vintage.json.xz
+    - VintageAtomic.json.xz
+- Push all data to SQL database
+- Use SQL to build colourless deck
