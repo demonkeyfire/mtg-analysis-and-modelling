@@ -1,4 +1,5 @@
-## 24/09/25
+## Tasks to work on
+ 
 - Convert functions in notebooks to modular py files
 - Reference modules in notebooks
 - Memory management in all notebooks
