@@ -1,2 +1,4 @@
 mtg_database.img
 .venv/
+__pycache__/
+*.pyc
