@@ -1,8 +1,8 @@
 ## Tasks to work on
  
-- Convert functions in notebooks to modular py files
-- Reference modules in notebooks
-- Memory management in all notebooks
+- ~~Convert functions in notebooks to modular py files~~
+- ~~Reference modules in notebooks~~
+- ~~Memory management in all notebooks~~
 - Push renaming and reordering dicts/lists for dataframes into a module
 - EDA on MTGJSON files:
     - AllDeckFiles.tar.xz
