@@ -3,7 +3,7 @@
 - ~~Convert functions in notebooks to modular py files~~
 - ~~Reference modules in notebooks~~
 - ~~Memory management in all notebooks~~
-- Push renaming and reordering dicts/lists for dataframes into a module
+- ~~Push renaming and reordering dicts/lists from set_list.ipynb into a module~~
 - EDA on MTGJSON files:
     - AllDeckFiles.tar.xz
     - AllIdentifiers.json.xz
@@ -29,3 +29,4 @@
     - VintageAtomic.json.xz
 - Push all data to SQL database
 - Use SQL to build colourless deck
+- Find and access card image dataset
